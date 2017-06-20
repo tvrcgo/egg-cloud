@@ -1,0 +1,23 @@
+{
+  "name": "egg-cloud",
+  "version": "0.0.0",
+  "description": "cloud service plugin for egg",
+  "main": "index.js",
+  "scripts": {
+    "test": "egg-bin test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/egg-cloud.git"
+  },
+  "keywords": [
+    "eggjs",
+    "cloud"
+  ],
+  "author": "tvrcgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/egg-cloud/issues"
+  },
+  "homepage": "https://github.com/tvrcgo/egg-cloud#readme"
+}
